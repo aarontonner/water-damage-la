@@ -40,26 +40,30 @@
             <h2>Locations</h2>
           </li>
           <li>
-            <a href="/">North Carolina</a>
+            <a href="/location">View all</a>
           </li>
         </ul>
         <ul>
           <li>
             <h2>Contact</h2>
           </li>
+          {#
           <li>
             <a href="/contact">
               {{client.address.city}} {{client.address.state}}
             </a>
           </li>
+          #}
           <li>
             <a href="tel:{{client.phoneForTel}}">
               T: {{client.phoneFormatted}}
             </a>
           </li>
+          {#
           <li>
             <a href="mailto:{{client.email}}">Click to Email</a>
           </li>
+          #}
         </ul>
       </div>
     </div>
