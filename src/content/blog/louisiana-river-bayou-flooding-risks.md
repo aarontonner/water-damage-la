@@ -113,7 +113,6 @@ Our response included:
 * Comprehensive documentation
 * Long-term monitoring
 
-## 
 Service Areas in Louisiana
 
 ### [Bossier City](<>)
@@ -187,6 +186,7 @@ Growing suburban area faces emerging challenges:
 [CALL NOW: (318) 824-4568](<>)
 
 * [Belle Chasse Water Damage Services](<>)
+* [](/)[Baker Water Damage Restoration](/)
 * [Covington Water Damage](<>)
 * [Minden Water Restoration](<>)
 * [Crowley Flood Repair](<>)

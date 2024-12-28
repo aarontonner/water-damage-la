@@ -275,10 +275,12 @@ Growing suburban area faces emerging challenges:
 * Drainage system management
 * Rapid growth area considerations
 
-### Other Water Damage Service Areas in Louisiana 
+### Other Water Damage Service Areas in Louisiana
+
 [CALL NOW: (318) 824-4568](tel:318-824-4568)
 
 * [Belle Chasse Water Damage Services](/belle-chasse-louisiana)
+* [Baker Water Damage Restoration](/)
 * [Covington Water Damage](/covington-louisiana)
 * [Minden Water Restoration](/minden-louisiana)
 * [Crowley Flood Repair](/crowley-louisiana)
