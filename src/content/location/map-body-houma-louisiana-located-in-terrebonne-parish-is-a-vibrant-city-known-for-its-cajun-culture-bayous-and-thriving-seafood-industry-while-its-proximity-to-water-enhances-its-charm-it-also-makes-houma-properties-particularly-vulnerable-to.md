@@ -42,7 +42,7 @@ We address the unique water damage challenges that properties in Houma face.
 
 * Homes near Bayou Terrebonne are prone to flooding during heavy rains and storms.
 * Properties in Broadmoor face water pooling issues due to low elevation.
-* Businesses along Highway 182 often experience stormwater intrusion during hurricanes.
+* Businesses along Highway 182 often experience [stormwater intrusion during hurricane](/blog/louisiana-hurricane-water-damage-guide/)s.
 
 ## **Rapid Water Extraction and Drying Services for Houma Residents**
 
@@ -89,7 +89,7 @@ Houma’s high humidity levels create an ideal environment for mold growth after
 ## **Localized Water Damage Restoration Services in Houma, Louisiana**
 
 **Water Damage Restoration Near Bayou Terrebonne**
-Homes and businesses near the bayou are at high risk of flooding.
+Homes and businesses [near the bayou](/blog/louisiana-river-and-bayou-flooding-risks/) are at high risk of flooding.
 
 * **Residential Services:**
 
@@ -184,16 +184,16 @@ Understanding flood risks in specific areas of Houma can help property owners st
 
 1. **Lisa Park:**
 
-    High flood risk due to its proximity to Bayou Black and limited drainage capacity.
+   High flood risk due to its proximity to Bayou Black and limited drainage capacity.
 2. **East Houma:**
 
-    Frequent flooding issues during heavy rains due to low elevation and aging infrastructure.
+   Frequent flooding issues during heavy rains due to low elevation and aging infrastructure.
 3. **Bayou Cane:**
 
-    Moderate flood risk from nearby waterways and storm runoff.
+   Moderate flood risk from nearby waterways and storm runoff.
 4. **Broadmoor:**
 
-    Lower risk, but still faces pooling water during prolonged rain events.
+   Lower risk, but still faces pooling water during prolonged rain events.
 
 #### **Historical Flooding in Houma**
 
